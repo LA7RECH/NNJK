@@ -1,0 +1,2 @@
+# NNJK
+importer la  discorde  de  la discorde . commandes  d'importation  externes  importer  asynchrone   client  =  commandes . Bot ( command_prefix = "!" ) # modifiez le préfixe ici  @ cliente . un événement  async  def  on_ready (): # Lorsque le bot est en ligne     print ( "Bot prêt !" )     attendre  le client . change_presence ( activity  =  discord . Activity ( type  =  discord . ActivityType . listening , name  =  "Cool Music !" )) # "Écouter de la Cool Music !" &lt; dans le statut  cliente . run ( "VOTRE JETON ALLEZ ICI" )
